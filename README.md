@@ -1,1 +1,2 @@
-docker push josefavnss/go:tagname
+Docker Hub - Imagem: 
+ - docker push josefavnss/go:latest
